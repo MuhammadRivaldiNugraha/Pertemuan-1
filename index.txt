@@ -6,4 +6,5 @@
 <body>
 	<h1> Heading 1 </h1>
 	<p> Paragaraph 1 </p>
+	<p> Ini Pragraph Baru </p>
 </body>
